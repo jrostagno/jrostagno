@@ -16,7 +16,7 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 ⭐ Languages and Tools:
 
-<div><img src="./assets/htmk5.svg"></div>
+<div><img src="./assets/html5.svg"></div>
 
 Connect with me:
 www.linkedin.com/in/javier-rostagno
