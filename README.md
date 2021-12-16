@@ -1,4 +1,4 @@
-<div><img src='./assets/helloWord'></div>
+<div><img src="./assets/helloWord.png"></div>
 
 Hi 👋, I'm Javier Rostagno HELOOOOOOOOO
 
@@ -16,7 +16,7 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 ⭐ Languages and Tools:
 
-![alt text](./assets/html5)
+<div><img src="./assets/htmk5.svg"></div>
 
 Connect with me:
 www.linkedin.com/in/javier-rostagno
