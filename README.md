@@ -1,6 +1,6 @@
 <div><img src='./assets/helloWord'></div>
 
-Hi 👋, I'm Javier Rostagno
+Hi 👋, I'm Javier Rostagno HELOOOOOOOOO
 
 About me ....
 
@@ -14,7 +14,9 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
 
-- 📫 How to reach me: javier.rostagno@gmail.com
+⭐ Languages and Tools:
+
+![alt text](./assets/html5)
 
 Connect with me:
 www.linkedin.com/in/javier-rostagno
