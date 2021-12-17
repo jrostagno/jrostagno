@@ -1,6 +1,6 @@
-Hi 👋, I'm Javier Rostagno
+<h1 style=" font-family:Tahoma, Verdana, sans-serif;">Hi 👋, I'm Javier Rostagno</h1>
 
-Full Stack Developer from Argentina to 🌎
+<h2 style="font-family:Tahoma, Verdana, sans-serif;">Full Stack Developer from Argentina to 🌎</h2>
 
 About me ....
 
@@ -14,13 +14,13 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
 
-⭐ Languages and Tools:
+<hr>
+<h3 style=" font-family:Tahoma, Verdana, sans-serif;">⭐ Languages and Tools:</h3> <br>
 
 <img src="./assets/html5.svg"><img src="./assets/javascript.svg" width="10%" height="45px"><img src="./assets/git.svg"><img src="./assets/boostrap.svg">
 <img src="./assets/react.svg"><br><img src="./assets/redux.svg" width="10%" height="45px"><img src="./assets/node.svg"><img src="./assets/expressjs.svg" width="10%" height="45px"><img src="./assets/postgresql.svg"> <img src="./assets/sequelize.svg">
 
-📎 Connect with me:
+<h3 style="font-family:Tahoma, Verdana, sans-serif;">📎 Connect with me:</h3><br>
 
 <a href="https://www.linkedin.com/in/javier-rostagno"><img src="./assets/linkedin-icon.png"  width="auto" height="40px" ></a>
 <a href="mailto:javier.rostagno@gmail.com"><img src="./assets/gmail-icon green.png"  width="auto" height="40px" ></a>
-<a href="tel:01132615516"><img src="./assets/whats.png" width="auto" height="40px" >
