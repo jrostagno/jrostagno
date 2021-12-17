@@ -23,4 +23,4 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 <a href="https://www.linkedin.com/in/javier-rostagno"><img src="./assets/linkedin-icon.png"  width="auto" height="40px" ></a>
 <a href="mailto:javier.rostagno@gmail.com"><img src="./assets/gmail-icon green.png"  width="auto" height="40px" ></a>
-<a href="tel:+5401132615516"><img src="./assets/whats.png" width="auto" height="40px" >
+<a href="tel:01132615516"><img src="./assets/whats.png" width="auto" height="40px" >
