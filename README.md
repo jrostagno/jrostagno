@@ -1,6 +1,6 @@
-<div><img src="./assets/helloWord.png"></div>
+Hi 👋, I'm Javier Rostagno
 
-Hi 👋, I'm Javier Rostagno HELOOOOOOOOO
+Full Stack Developer from Argentina to 🌎
 
 About me ....
 
@@ -16,7 +16,11 @@ The startups word, the technology industry, agile work methodologies, and the gr
 
 ⭐ Languages and Tools:
 
-<div><img src="./assets/html5.svg"></div>
+<img src="./assets/html5.svg"><img src="./assets/javascript.svg" width="10%" height="45px"><img src="./assets/git.svg"><img src="./assets/boostrap.svg">
+<img src="./assets/react.svg"><br><img src="./assets/redux.svg" width="10%" height="45px"><img src="./assets/node.svg"><img src="./assets/expressjs.svg" width="10%" height="45px"><img src="./assets/postgresql.svg"> <img src="./assets/sequelize.svg">
 
-Connect with me:
-www.linkedin.com/in/javier-rostagno
+📎 Connect with me:
+
+<a href="https://www.linkedin.com/in/javier-rostagno"><img src="./assets/linkedin-icon.png"  width="auto" height="40px" ></a>
+<a href="mailto:javier.rostagno@gmail.com"><img src="./assets/gmail-icon green.png"  width="auto" height="40px" ></a>
+<a href="tel:(+54)01132615516"><img src="./assets/whats.png" width="auto" height="40px" >
