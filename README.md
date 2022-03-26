@@ -1,6 +1,6 @@
 <h1 style=" font-family:Tahoma, Verdana, sans-serif;">Hi 👋, I'm Javier Rostagno</h1>
 
-<h2 style="font-family:Tahoma, Verdana, sans-serif;">Full Stack Developer from Argentina to 🌎</h2>
+<h2 style="font-family:Tahoma, Verdana, sans-serif;">Frontend Developer from Argentina to 🌎</h2>
 
 About me ....
 
