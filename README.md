@@ -8,17 +8,14 @@ I'm a Full Stack Developer with a Frontend orientation with fluent English, both
 
 The startups word, the technology industry, agile work methodologies, and the great capacity to generate impact that they have made me wake up interest in learning programming, which I found that I enjoy a lot.
 
-- 🔭 I’m currently working on Henry Final Project witch consist in a creation of a WEB site aimed at solving social problems. Developed with agile methodologies (SCRUM) with one-week sprints and presentations to a product owner member of the staff, using git collaborative workflow.
-
-- 🌱 I’m currently learning TypeScript and still coursing the final stage of Henry Full Stack Development bootcamp.
-
-- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
+- 🌱 I’m currently learning TypeScript.
+- 💬 Ask me about JavaScript, React,Nextjs, Redux, Tailwinds Css, HTML, CSS, Node JS
 
 <hr>
 
 <h3 style=" font-family:Tahoma, Verdana, sans-serif;">⭐ Languages and Tools:</h3> <br>
 
-<img src="./assets/html5.svg"><img src="./assets/javascript.svg" width="10%" height="45px"><img src="./assets/git.svg"><img src="./assets/boostrap.svg">
+<img src="./assets/html5.svg"><img src="./assets/javascript.svg" width="10%" height="45px"><img src="./assets/git.svg">
 <img src="./assets/react.svg"><br><img src="./assets/redux.svg" width="10%" height="45px"><img src="./assets/node.svg"><img src="./assets/expressjs.svg" width="10%" height="45px"><img src="./assets/postgresql.svg"> <img src="./assets/sequelize.svg">
 <br>
 
