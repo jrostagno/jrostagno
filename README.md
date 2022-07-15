@@ -4,7 +4,7 @@
 
 About me ....
 
-I'm a Full Stack Developer with a Frontend orientation with fluent English, both oral and written. I have the ability to develop web and teamwork projects (knowledge of git collaborative workflow).
+I'm a Frontend developer with fluent English, both oral and written. I have the ability to develop web and teamwork projects (knowledge of git collaborative workflow).
 
 The startups word, the technology industry, agile work methodologies, and the great capacity to generate impact that they have made me wake up interest in learning programming, which I found that I enjoy a lot.
 
@@ -16,7 +16,7 @@ The startups word, the technology industry, agile work methodologies, and the gr
 <h3 style=" font-family:Tahoma, Verdana, sans-serif;">⭐ Languages and Tools:</h3> <br>
 
 <img src="./assets/html5.svg"><img src="./assets/javascript.svg" width="10%" height="45px"><img src="./assets/git.svg">
-<img src="./assets/react.svg"><br><img src="./assets/redux.svg" width="10%" height="45px"><img src="./assets/node.svg"><img src="./assets/expressjs.svg" width="10%" height="45px"><img src="./assets/postgresql.svg"> <img src="./assets/sequelize.svg">
+<img src="./assets/react.svg"><br><img src="./assets/redux.svg" width="10%" height="45px"><img src="./assets/node.svg"><img src="./assets/expressjs.svg" width="10%" height="45px"><img src="./assets/postgresql.svg"> 
 <br>
 
 <h3 style="font-family:Tahoma, Verdana, sans-serif;">📎 Connect with me:</h3>
