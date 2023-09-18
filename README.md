@@ -2,14 +2,14 @@
 
 <h2 style="font-family:Tahoma, Verdana, sans-serif;">Frontend Developer from Argentina to 🌎</h2>
 
-About me ....
+About me...
 
 I'm a Frontend developer with fluent English, both oral and written. I have the ability to develop web and teamwork projects (knowledge of git collaborative workflow).
 
-The startups word, the technology industry, agile work methodologies, and the great capacity to generate impact that they have made me wake up interest in learning programming, which I found that I enjoy a lot.
+The startup world, the technology industry, agile work methodologies, and the great capacity to generate an impact have made me interested in learning programming, which I found that I enjoy a lot.
 
-- 🌱 I’m currently learning TypeScript.
-- 💬 Ask me about JavaScript, React,Nextjs, Redux, Tailwinds Css, HTML, CSS, Node JS
+
+- 💬 Ask me about JavaScript, React, Nextjs, Redux, Tailwinds CSS, HTML, CSS, Node JS
 
 <hr>
 
